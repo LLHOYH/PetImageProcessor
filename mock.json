@@ -1,0 +1,11 @@
+{
+    "posts":[
+        {
+            "postID":1,
+            "poster":1,
+            "category":"missing",
+            "place":[1.023,2.54]
+
+        }
+    ]
+}
